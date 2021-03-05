@@ -1,6 +1,6 @@
 # practicalTask1-PrivacyAct
 
-Select five of the 12 privacy principles set out in Section 6 of the Privacy Act
+## Select five of the 12 privacy principles set out in Section 6 of the Privacy Act
 <- Principle 1 - Purpose of collection of personal information
 <- Principle 2 - Source of personal information
 <- Principle 3 - Collection of information from subject
@@ -25,4 +25,4 @@ Select five of the 12 privacy principles set out in Section 6 of the Privacy Act
 # Principle 6 - Access to personal information
 <-	Ensure that personal information is easily retrievable by the concerned person.
 <-	If someone asks for access to their personal information, the agency must respond within the prescribed timeframe receiving the request.  
-<-	Request for information must be provided promptly unless there’s a reason to withhold iit under the Act. 
+<-	Request for information must be provided promptly unless there’s a reason to withhold it under the Act. 
